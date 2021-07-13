@@ -4,7 +4,10 @@ import java.util.ListIterator;
 import java.util.Vector;
 
 public class program2 {
-
+/**
+ * @author karthikeyan
+ *
+ */
 	static String sdata = "2\n" + "1,5,10\n" + "4,8,5,9,9\n" + "2,6,15\n" + "11,14,14,10,9,12";
 
 	static Vector find_unsafe_cities(int safetyPercetage) {
